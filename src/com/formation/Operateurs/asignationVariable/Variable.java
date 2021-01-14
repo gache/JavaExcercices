@@ -1,4 +1,4 @@
-package com.formation.variables.affectation;
+package com.formation.Operateurs.asignationVariable;
 
 public class Variable {
     public static void main(String[] args) {
