@@ -15,8 +15,5 @@ public class Carre {
         System.out.println("Area = " + area);
         System.out.println("Perimetro: " +  perimetro);
 
-
-
-
     }
 }

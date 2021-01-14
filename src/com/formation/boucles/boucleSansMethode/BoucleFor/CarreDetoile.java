@@ -1,4 +1,4 @@
-package com.formation.boucles.boucleSansMethode;
+package com.formation.boucles.boucleSansMethode.BoucleFor;
 
 import java.util.Scanner;
 

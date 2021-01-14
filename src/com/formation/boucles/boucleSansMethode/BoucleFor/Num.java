@@ -1,4 +1,4 @@
-package com.formation.boucles.boucleSansMethode;
+package com.formation.boucles.boucleSansMethode.BoucleFor;
 
 import java.util.Scanner;
 
@@ -10,13 +10,13 @@ public class Num {
         int num = scanner.nextInt();
 
         for (int i = 0; i < num; i++) {
-            System.out.println(i);
+            System.out.println("i = " + i);
         }
 
-        System.out.println("Descendent");
+        System.out.println("********* Descendent ********");
 
         for (int j = num; j > 0; j--){
-            System.out.println(j);
+            System.out.println("j = " + j);
         }
 
 
