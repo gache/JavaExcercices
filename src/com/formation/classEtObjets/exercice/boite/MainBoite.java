@@ -1,4 +1,4 @@
-package com.formation.classEtObjets.exercice;
+package com.formation.classEtObjets.exercice.boite;
 
 public class MainBoite {
     public static void main(String[] args) {
