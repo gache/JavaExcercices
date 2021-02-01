@@ -35,7 +35,7 @@ public class ExempleTableau {
         personnes[1] = new Personne("Maria");
         personnes[2] = new Personne("Carmen");
 
-        System.out.println("Sans boucle:");
+        System.out.println("*********Sans boucle:**********");
         System.out.println("Tableau index 0: " + personnes[0]);
         System.out.println("Tableau index 1: " + personnes[1]);
         System.out.println("Tableau index 2: " + personnes[2]);
