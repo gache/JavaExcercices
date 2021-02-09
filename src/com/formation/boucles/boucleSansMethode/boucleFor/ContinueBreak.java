@@ -1,4 +1,4 @@
-package com.formation.boucles.boucleSansMethode.BoucleFor;
+package com.formation.boucles.boucleSansMethode.boucleFor;
 
 public class ContinueBreak {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.formation.boucles.boucleSansMethode.BoucleWhile;
+package com.formation.boucles.boucleSansMethode.boucleWhile;
 
 import java.util.Scanner;
 

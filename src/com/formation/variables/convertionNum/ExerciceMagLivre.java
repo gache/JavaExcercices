@@ -8,12 +8,16 @@ public class ExerciceMagLivre {
 
         System.out.println("Nom du livre: ");
         String nom = scanner.nextLine();
+
         System.out.println("Id du livre: ");
         int id = Integer.parseInt(scanner.nextLine());
+
         System.out.println("Prix du livre: ");
         double prix = Double.parseDouble(scanner.nextLine());
+
         System.out.println("Symbole de la monnais: ");
         char symbole = scanner.nextLine().charAt(0);
+
         System.out.println("Envoi du Livre: ");
         boolean envoieGratuit = scanner.nextBoolean();
 
