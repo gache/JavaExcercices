@@ -1,4 +1,4 @@
-package com.formation.matrix.personne;
+package com.formation.tableau.matrice.personne;
 
 public class PersonneMatrix {
     private  String prenom;

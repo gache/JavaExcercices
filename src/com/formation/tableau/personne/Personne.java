@@ -1,4 +1,4 @@
-package com.formation.tableau.exercices.personne;
+package com.formation.tableau.personne;
 
 public class Personne {
     private  String prenom;

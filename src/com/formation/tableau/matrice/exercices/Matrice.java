@@ -1,6 +1,6 @@
-package com.formation.matrix.exercices;
+package com.formation.tableau.matrice.exercices;
 
-public class Matrix {
+public class Matrice {
     public static void main(String[] args) {
 
         int[][] ages;
@@ -15,17 +15,18 @@ public class Matrix {
 
         for (int i = 0; i < ages.length; i++) {
             for (int j = 0; j < ages[i].length; j++) {
-                System.out.print(ages[i][j] + " ");
+                System.out.print("\t" + ages[i][j]);
             }
             System.out.println();
         }
 
+        System.out.println();
 
         String[][] prenoms = {{"Marie", "Cesar", "Willian"}, {"Yesenia", "Esteban", "Tereza"}};
 
-        for (int i = 0; i < prenoms.length ; i++) {
-            for (int j = 0; j < prenoms[i].length ; j++) {
-                System.out.print(prenoms[i][j] + " ");
+        for (int i = 0; i < prenoms.length; i++) {
+            for (int j = 0; j < prenoms[i].length; j++) {
+                System.out.print("\t" + prenoms[i][j]);
             }
             System.out.println();
         }

@@ -1,4 +1,4 @@
-package com.formation.matrix.exercices;
+package com.formation.tableau.matrice.exercices;
 
 public class ColumneNum {
 

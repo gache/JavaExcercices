@@ -1,4 +1,4 @@
-package com.formation.quelqueClassPredefini;
+package com.formation.quelqueClassPredefini.classeString;
 
 public class ClassString {
     /**

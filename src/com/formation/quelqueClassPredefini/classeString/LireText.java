@@ -1,4 +1,4 @@
-package com.formation;
+package com.formation.quelqueClassPredefini.classeString;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;

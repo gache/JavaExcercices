@@ -1,4 +1,4 @@
-package com.formation.quelqueClassPredefini;
+package com.formation.quelqueClassPredefini.classeMath;
 
 public class ClassMath {
     public static void main(String[] args) {

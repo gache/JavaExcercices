@@ -1,4 +1,6 @@
-package com.formation.tableau.exercices.personne;
+package com.formation.tableau.personne;
+
+import com.formation.tableau.personne.Personne;
 
 public class ExempleTableau {
     public static void main(String[] args) {
